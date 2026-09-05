@@ -20,11 +20,11 @@ This repository contains the public Privacy Policy page for **CashReward**.
 
 Your Privacy Policy URL will normally be:
 
-`https://YOUR-USERNAME.github.io/cashreward-privacy/privacy-policy.html`
+`amitg35/cashreward https://github.com/amitg35/cashreward/tree/main`
 
-You can also rename `privacy-policy.html` to `index.html`. Then the URL becomes:
+You can also rename `privacy-policy.html`. Then the URL becomes:
 
-`https://YOUR-USERNAME.github.io/cashreward-privacy/`
+`amitg35/cashreward https://github.com/amitg35/cashreward/tree/main`
 
 ## Telegram Bot
 
